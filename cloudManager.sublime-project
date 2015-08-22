@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-project",
+				"*.sublime-workspace",
+				".*"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"docs",
+				"public",
+				"build/naturalDocs",
+				"plugins/coren_setup/templates",
+				"shared/compiled"
+			],
+			"path": "/C/dev/coren"
+		}
+	]
+}

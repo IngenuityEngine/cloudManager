@@ -1,0 +1,26 @@
+{
+  "name": "cloudmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloudManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanadam/cloudManager.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanadam/cloudManager/issues"
+  },
+  "homepage": "https://github.com/jonathanadam/cloudManager#readme",
+  "dependencies": {
+    "async": "^1.2.1",
+    "expect": "^1.6.0",
+    "googleapis": "^2.0.5",
+    "lodash": "^3.9.3",
+    "uberclass": "^1.0.1"
+  }
+}

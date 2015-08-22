@@ -1,0 +1,2054 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"plugina",
+				"pluginName"
+			],
+			[
+				"cure",
+				"currentView"
+			],
+			[
+				"compres",
+				"compressor"
+			],
+			[
+				"getEnt",
+				"getEntityModel"
+			],
+			[
+				"expor",
+				"exportDir"
+			],
+			[
+				"getD",
+				"getDataForDB"
+			],
+			[
+				"baseN",
+				"baseNameLowerCase"
+			],
+			[
+				"hand",
+				"handlersAfter"
+			],
+			[
+				"handl",
+				"handlersBefore"
+			],
+			[
+				"shad",
+				"shadedBlocker"
+			],
+			[
+				"main",
+				"mainNavbar"
+			],
+			[
+				"brand",
+				"brandPrimary"
+			],
+			[
+				"sidebarham",
+				"sidebarHamburgerIndicatorColor"
+			],
+			[
+				"icon_ba",
+				"icon_barIndicator"
+			],
+			[
+				"subM",
+				"subMenuToggle"
+			],
+			[
+				"exte",
+				"extendEvents"
+			],
+			[
+				"sub",
+				"subMenuToggle"
+			],
+			[
+				"sid",
+				"sidebar"
+			],
+			[
+				"side",
+				"sidebarNavView"
+			],
+			[
+				"navbarc",
+				"navbarTextColor"
+			],
+			[
+				"gre",
+				"greyDarker"
+			],
+			[
+				"spa",
+				"spacingSmall"
+			],
+			[
+				"serveropt",
+				"serverOptionsToSkip"
+			],
+			[
+				"serv",
+				"serverOptionsToSkip"
+			],
+			[
+				"_co",
+				"_collectValidOptions"
+			],
+			[
+				"templa",
+				"templateName"
+			],
+			[
+				"_data",
+				"_dataInfo"
+			],
+			[
+				"model",
+				"modelClassName"
+			],
+			[
+				"_da",
+				"_dataInfo"
+			],
+			[
+				"can",
+				"cannedListItem"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"deleg",
+				"delegateEvents"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"dele",
+				"delegateEvents"
+			],
+			[
+				"ren",
+				"rendered"
+			],
+			[
+				"ata",
+				"attached"
+			],
+			[
+				"at",
+				"_attached"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"ini",
+				"initialized"
+			],
+			[
+				"in",
+				"initPage"
+			],
+			[
+				"inig",
+				"initRegistry"
+			],
+			[
+				"entit",
+				"entitiesMenu"
+			],
+			[
+				"Formal",
+				"formalName"
+			],
+			[
+				"init",
+				"initialized"
+			],
+			[
+				"exist",
+				"existingComponents"
+			],
+			[
+				"m",
+				"mouseEvents"
+			],
+			[
+				"colect",
+				"collectionClassName"
+			],
+			[
+				"compone",
+				"componentName"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"existing",
+				"existingPages"
+			],
+			[
+				"existin",
+				"existingPages"
+			],
+			[
+				"exi",
+				"existingPages"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"cla",
+				"callback"
+			],
+			[
+				"getE",
+				"getEntityModel"
+			],
+			[
+				"defaul",
+				"defaultWidgets"
+			],
+			[
+				"_p",
+				"_pageInfo"
+			],
+			[
+				"update",
+				"updateDatabaseComponents"
+			],
+			[
+				"comp",
+				"componentID"
+			],
+			[
+				"compo",
+				"componentsByID"
+			],
+			[
+				"coren_grid",
+				"coren_gridID"
+			],
+			[
+				"coren_g",
+				"coren_gridID"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"childv",
+				"childViews"
+			],
+			[
+				"find",
+				"findMatch"
+			],
+			[
+				"entity",
+				"entityIDs"
+			],
+			[
+				"en",
+				"entityData"
+			],
+			[
+				"displ",
+				"displayFields"
+			],
+			[
+				"displayfi",
+				"displayFields"
+			],
+			[
+				"default",
+				"defaultOptions"
+			],
+			[
+				"entityDef",
+				"entityDefinitions"
+			],
+			[
+				"removeent",
+				"removeEntityDef"
+			],
+			[
+				"old",
+				"oldEntityType"
+			],
+			[
+				"entd",
+				"entityDefinitions"
+			],
+			[
+				"conte",
+				"contextGlobal"
+			],
+			[
+				"createE",
+				"createEntitiesFromDefinitions"
+			],
+			[
+				"Enti",
+				"EntityDefManager"
+			],
+			[
+				"dataTYp",
+				"dataType"
+			],
+			[
+				"proo",
+				"prototype"
+			],
+			[
+				"desc",
+				"descriptionFields"
+			],
+			[
+				"wra",
+				"wrappedCallback"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Template",
+				"TemplateManager"
+			],
+			[
+				"tempate",
+				"templateManager"
+			],
+			[
+				"Templ",
+				"TemplateManager"
+			],
+			[
+				"template",
+				"templateManager"
+			],
+			[
+				"database",
+				"database_dbMongo"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"packag",
+				"packageManager"
+			],
+			[
+				"coren_",
+				"coren_testGlobals"
+			],
+			[
+				"objec",
+				"ObjectID"
+			],
+			[
+				"query",
+				"queryParams"
+			],
+			[
+				"db",
+				"dbValue"
+			],
+			[
+				"linke",
+				"linkedEntities"
+			],
+			[
+				"getLink",
+				"getLinkData"
+			],
+			[
+				"linkedEnt",
+				"linkedEntityInfo"
+			],
+			[
+				"is",
+				"isEntityModel"
+			],
+			[
+				"fieldN",
+				"fieldNameParts"
+			],
+			[
+				"comparef",
+				"compareFieldB"
+			],
+			[
+				"compareFi",
+				"compareFieldA"
+			],
+			[
+				"getFiel",
+				"getFieldInfoByID"
+			],
+			[
+				"opt",
+				"optionFieldInfo"
+			],
+			[
+				"rege",
+				"regexValidID"
+			],
+			[
+				"dbre",
+				"initComplete"
+			],
+			[
+				"fieldName",
+				"fieldNameMap"
+			],
+			[
+				"push",
+				"pushData"
+			],
+			[
+				"get",
+				"getDBValue"
+			],
+			[
+				"parse",
+				"parseFromStorage"
+			],
+			[
+				"ensure",
+				"ensureArray"
+			],
+			[
+				"options",
+				"optionsToRemove"
+			],
+			[
+				"make",
+				"makeObjectID"
+			],
+			[
+				"base",
+				"BaseTemplateView"
+			],
+			[
+				"coren",
+				"Coren_gridItemView"
+			],
+			[
+				"linkedEn",
+				"linkedEntityInfo"
+			],
+			[
+				"link",
+				"linkEntityType"
+			],
+			[
+				"_enti",
+				"_entityFields"
+			],
+			[
+				"callback",
+				"callbackOptions"
+			],
+			[
+				"dfa",
+				"defaultFor"
+			],
+			[
+				"display",
+				"displayField"
+			],
+			[
+				"len",
+				"linkEntityType"
+			],
+			[
+				"throw",
+				"throwErr"
+			],
+			[
+				"ignore",
+				"fieldsToIgnore"
+			],
+			[
+				"normal",
+				"normalizeDir"
+			],
+			[
+				"core",
+				"corenRoot"
+			],
+			[
+				"entitymodel",
+				"_entityModelInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/test_googleCloudManager.js",
+			"settings":
+			{
+				"buffer_size": 3045,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cloudManager.js",
+			"settings":
+			{
+				"buffer_size": 5006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cloudManagerBaseClass.js",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"line_ending": "Windows",
+				"name": "// Vendor Modules"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 120.0,
+		"selected_items":
+		[
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: clas",
+				"Snippet: New Class"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file e",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 331.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/cloudManager/LICENSE",
+		"/C/dev/cloudManager/README.md",
+		"/C/dev/cloudManager/package.json",
+		"/C/dev/coren/plugins/coren_permissionsManager/permissionsInterface.js",
+		"/C/dev/cloudManager/cloudManager.js",
+		"/C/dev/coren/plugins/coren_permissionsManager/permissionsManager.js",
+		"/C/dev/cloudManager/index.js",
+		"/C/temp/googlePythonKey.json",
+		"/C/Users/Crabs User/Downloads/Yaya-6e96f5b74ce6.json",
+		"/C/dev/cloudManager/config.js",
+		"/C/dev/coren/plugins/coren_manager/index.js",
+		"/C/dev/coren/server/manager.js",
+		"/C/dev/coren/server/db_mongo.js",
+		"/C/dev/coren/test/coren_interaction.js",
+		"/C/dev/coren/test/coren_query.js",
+		"/C/dev/coren/test/cOS.js",
+		"/C/dev/coren/test/databaseTests.js",
+		"/C/dev/coren/test/server.js",
+		"/C/dev/coren/test/styleIO.js",
+		"/C/dev/coren/test/client/test-corenClient.js",
+		"/C/dev/coren/test/test-cOS/four.js",
+		"/C/dev/coren/test/public/js/main.js",
+		"/C/dev/coren/test/benchmark-coren.js",
+		"/C/dev/coren/test/benchmark-snippets.js",
+		"/C/dev/coren/test/coren_backend.js",
+		"/C/dev/coren/client/main.js",
+		"/C/dev/coren/client/test.js",
+		"/C/dev/coren/client/clientController.js",
+		"/C/temp/config.js",
+		"/C/dev/express-simple/config.js",
+		"/C/dev/express-simple/config - Copy.js",
+		"/C/dev/express-simple/bare_authenticate.js",
+		"/C/dev/express-simple/test1/config.js",
+		"/C/dev/express-simple/passport-example.js",
+		"/C/dev/express-simple/googletest.js",
+		"/C/dev/express-simple/passport_sessionless.js",
+		"/C/dev/express-simple/passport_token.js",
+		"/C/dev/coren/node_modules/node_modules/coren/node_modules/node_modules/coren/node_modules/node_modules/coren/node_modules/node_modules/coren/node_modules/node_modules/coren/node_modules/node_modules/coren/shared/controllers/apiRouter.js",
+		"/C/dev/coren/test/coren_postEntity.js",
+		"/C/dev/coren/shared/query.js",
+		"/C/dev/coren/shared/util/helpers.js",
+		"/C/dev/coren/python/ieUtil/ieUtil/common.py",
+		"/C/dev/coren/python/ieUtil/ieUtil/helpers.js",
+		"/C/dev/ieUtil/ieUtil/__init__.py",
+		"/C/dev/coren/shared/manager.js",
+		"/C/dev/coren/server/context.js",
+		"/C/dev/coren/server/controller.js",
+		"/C/dev/coren/server/entityDefManager.js",
+		"/C/dev/coren/server/package.json",
+		"/C/dev/coren/server/pluginManager.js",
+		"/C/dev/coren/server/server.js",
+		"/C/ie/ieUtil/ieUtil/common.py",
+		"/C/dev/coren/config/cli.js",
+		"/C/dev/coren/python/test/test_query.py",
+		"/C/dev/aws.json",
+		"/C/dev/storageManager/test/testSuite_s3Storage.js",
+		"/C/dev/rootkey.csv",
+		"/C/temp/default.js",
+		"/C/Users/Crabs User/Downloads/rootkey.csv",
+		"/C/dev/digitalocean.txt",
+		"/C/dev/coren/readme.md",
+		"/C/dev/jonathan_ssh_public",
+		"/C/dev/jonathan_ssh.com",
+		"/C/dev/jonathan_ssh",
+		"/C/dev/coren/jonathan.md",
+		"/C/dev/coren/todo.md",
+		"/C/dev/coren/node_modules/super-backbone/backbone.js",
+		"/C/dev/coren/node_modules/velocity-animate-server/velocity.js",
+		"/C/dev/coren/node_modules/velocity-animate-server/velocity.ui.js",
+		"/C/dev/coren/shared/views/baseView.js",
+		"/C/dev/coren/shared/views/baseAppView.js",
+		"/C/dev/coren/shared/views/baseTemplateView.js",
+		"/C/dev/coren/server/cli.js",
+		"/C/dev/coren/node_modules/velocity-animate-server/package.json",
+		"/C/dev/coren/plugins/coren_setup/coren_setup.js",
+		"/C/dev/coren/plugins/coren_core/corenPlugin.js",
+		"/C/dev/coren/client/templates/coren_header.hogan",
+		"/C/dev/coren/client/styles/coren_mixins.styl",
+		"/C/dev/coren/config/default.js",
+		"/C/dev/coren/shared/views/entities/baseEntitiesView.js",
+		"/C/dev/coren/shared/views/entities/baseEntityView.js",
+		"/C/dev/coren/package.json",
+		"/C/dev/coren/install",
+		"/C/dev/coren/server/entityDefinitions/_user.entitydef",
+		"/C/dev/coren/shared/views/fields/idFieldView.js",
+		"/C/dev/coren/client/styles/coren_common.styl",
+		"/C/dev/coren/shared/models/fields/multiEntityFieldModel.js",
+		"/C/dev/coren/shared/coren.js",
+		"/C/dev/coren/shared/controllers/baseRouter.js",
+		"/C/dev/coren/shared/collections/baseCollection.js",
+		"/C/dev/coren/shared/collections/entities/baseEntityCollection.js",
+		"/C/dev/coren/shared/models/entities/baseEntityModel.js",
+		"/C/dev/coren/node_modules/uglify-js/lib/parse.js",
+		"/C/dev/coren/plugins/javascript_browserify/javascriptCompiler.js",
+		"/C/dev/coren/client/styles/coren_variables.styl",
+		"/C/dev/coren/public/js/main.js",
+		"/C/dev/coren/test/javascriptIO.js",
+		"/C/dev/coren/server/cOS.js",
+		"/C/dev/coren/plugins/coren_runScript/coren_runScript.js",
+		"/C/dev/coren/plugins/importer_MySQL/mysqlConverter.js",
+		"/C/dev/coren/shared/models/fields/multiEntityTypeFieldModel.js",
+		"/C/dev/coren/plugins/importer_MySQL/mysqlImporter.js",
+		"/C/dev/coren/shared/models/fields/baseFieldModel.js",
+		"/C/dev/coren/shared/models/fields/entityFieldModel.js",
+		"/C/dev/coren/shared/models/entities/_entityModel.js",
+		"/C/dev/coren/shared/constants.js",
+		"/C/dev/Examples/examples/README",
+		"/C/dev/coren/shared/models/baseFieldedModel.js",
+		"/C/dev/coren/shared/models/fields/dateFieldModel.js",
+		"/C/dev/coren/test/coren_basicViews.js",
+		"/C/dev/coren/shared/templates/_field/listEditView.hogan",
+		"/C/dev/coren/shared/syncer.js",
+		"/C/dev/coren/shared/components/coren_backend/controllers/coren_backendRouter.js",
+		"/C/dev/coren/client/styles/glyphicons.styl",
+		"/C/dev/coren/test/coren_linkedEntities.js",
+		"/C/dev/coren/test/coren_fields.js",
+		"/C/dev/coren/shared/views/fields/multiEntityFieldView.js",
+		"/C/dev/coren/test/coren_basics.js",
+		"/C/dev/coren/shared/components/coren_grid/views/coren_gridItemView.js",
+		"/C/dev/coren/plugins/coren_importer/coren_importer.js",
+		"/C/dev/coren/test/coren_entityDefManager.js",
+		"/C/dev/coren/shared/models/fields/idFieldModel.js",
+		"/C/dev/coren/shared/models/fields/jsonFieldModel.js",
+		"/C/dev/coren/shared/views/fields/textFieldView.js",
+		"/C/dev/coren/shared/models/fields/entityTypeFieldModel.js",
+		"/C/dev/coren/shared/models/fields/listFieldModel.js",
+		"/C/dev/coren/plugins/coren_testManager/testManagerWrapper.js",
+		"/C/dev/coren/shared/models/baseModel.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\dev\\coren\\test",
+			"<project>, !*.entityDef",
+			"<project>",
+			"C:\\dev\\coren\\build\\newSite",
+			"<project>",
+			"C:\\dev\\coren",
+			"<project>",
+			"C:\\dev\\grest\\bin",
+			"C:\\dev\\grest\\build",
+			"C:\\dev\\grest\\client",
+			"C:\\dev\\grest\\config",
+			"C:\\dev\\grest\\public",
+			"C:\\dev\\grest\\server",
+			"C:\\dev\\grest\\shared",
+			"C:\\dev\\grest\\test",
+			"C:\\dev\\grest\\shared",
+			"C:\\dev\\grest\\server",
+			"C:\\dev\\grest\\public",
+			"C:\\dev\\grest\\docs",
+			"C:\\dev\\grest\\config",
+			"C:\\dev\\grest\\client",
+			"C:\\dev\\grest\\build",
+			"C:\\dev\\grest\\bin",
+			"<project>",
+			"Q:\\USERS\\Grant_Miller\\dev\\tools\\Nuke",
+			"<project>",
+			"Q:\\USERS\\Grant_Miller\\dev\\tools\\Nuke"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"storagemanager",
+			"\n",
+			"createEntit",
+			"schema._entity._id",
+			"schema",
+			"queryParams",
+			"execCall",
+			"!",
+			"x",
+			"p4merge",
+			"getData",
+			"gettemplateview",
+			"catcher",
+			"_allowlink",
+			"bindall",
+			"this",
+			"\"blank",
+			"loadconfig",
+			"Velocity",
+			"IE",
+			"isClient",
+			"isclient",
+			"!isClient || ",
+			"isClient",
+			"velocity-animate",
+			"utilities",
+			"'Utilities",
+			"move",
+			"directory",
+			"remove",
+			"port",
+			"service",
+			"services",
+			"base'",
+			"base.html",
+			"mongo",
+			"currentView",
+			"undelegateEvents",
+			"bind",
+			"bind: fu",
+			"flickable",
+			"this",
+			"delegateevents",
+			"flick",
+			"this",
+			"$size ",
+			"sortable",
+			"arrowUp",
+			"60px",
+			"10px",
+			"black",
+			"20px",
+			"$width",
+			"width",
+			"\n}",
+			";",
+			"5px",
+			"exports",
+			"skipPostRender",
+			"options",
+			"entityType",
+			"_datainfo",
+			"data-entity",
+			"_dataInfo",
+			"data.entity",
+			"data('entity",
+			"getserverdata",
+			"data-",
+			"decoratetemplate",
+			"getOrCreateClientModel",
+			"getServerViewData",
+			"app._clientModels[dataKey] = app.coren.getEntityModel(data.entity,",
+			"rege",
+			"collectRegexMatches",
+			"regexp",
+			"getDataForDB",
+			"find",
+			"sync",
+			"startDevServer",
+			"buildJSFast",
+			"insertSemicolons",
+			"loadLazyImages",
+			"compression",
+			"expressSession",
+			"insertSemicolons",
+			"acorn",
+			"dest",
+			"destFile",
+			"uglify",
+			"dest",
+			"buildComplete",
+			"destMin",
+			"compress",
+			"compression",
+			".use(",
+			"app.use(",
+			"loadImagesFromData",
+			"imgDefer",
+			";",
+			"getAttribute",
+			"loadImageFromData",
+			"exists",
+			"Exists",
+			"exists",
+			"placeholderFontSize",
+			"style",
+			"fontSize",
+			"fontStyle",
+			"placeholderFontStyle",
+			"headingsTextColor",
+			"h4",
+			"placeholder",
+			"placeholderColor",
+			"placeholder",
+			"navbarBorder",
+			"navborder",
+			"font-family",
+			"font:",
+			"this.",
+			"getWindowSize",
+			"notequal",
+			"call set:",
+			"raw push",
+			"set data:",
+			"$navbarheight",
+			"push data found",
+			"debug('manager.update",
+			"manager.update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CloudManager",
+			"fieldedCommon",
+			"getCollectionView",
+			".getView(",
+			"this.timeout(10000)",
+			"/var/www",
+			"/\\l$1",
+			"/\\L$1$2",
+			"/$1\\L$2",
+			"/\\L$1$2",
+			"/$1U$2",
+			"baseAppView",
+			"(baseView",
+			"'baseView",
+			"baseView.extend(",
+			"/baseView')",
+			"var baseView",
+			"baseTemplateView",
+			"pluginManager\npluginManager",
+			"entityDefManager",
+			"basicApp",
+			"clientController",
+			".subMenuToggle",
+			"menuToggle",
+			"subMenu",
+			"$navbarBgColor",
+			"$lineHeight",
+			".icon_",
+			".icon_$1_",
+			".icon_$1_$2_",
+			".icon_$1_$2_$3_",
+			".icon_$1_$2_$3_$4_",
+			".icon_",
+			".icon_$1_",
+			".icon_$1_$2_",
+			".icon_$1_$2_$3_",
+			".icon_$1_$2_$3_$4_",
+			".icon_$2_$3_$4_$5_",
+			".$1_$2_$3_",
+			".$1_$2_$3",
+			"getChildViewsByKey",
+			"getLastChildView(",
+			"require('coren/shared/models/fields/BaseFieldModel')",
+			"{{>coren_header}}",
+			"testArea",
+			"'coren_",
+			".coren",
+			"basics.vendorIncludes}}",
+			"'link'",
+			"field.link",
+			"parse",
+			"enableFallback",
+			"'$1'",
+			"$1",
+			"./BaseFieldModel",
+			"Plugin",
+			"plugin",
+			"package.json",
+			"Plugin",
+			"plugin",
+			"roflcopter.json",
+			"package.json",
+			"Plugin",
+			"plugin",
+			"package",
+			"roflcopter.json",
+			"package.json",
+			"plugin",
+			"roflcopter.json",
+			"__corenPackage",
+			"packageSettings",
+			"Done testing, run callback",
+			"getRawData",
+			"rawData",
+			"isIDBased",
+			"$push",
+			"",
+			"updatedby",
+			"createdby",
+			"this.coren.manager.isValidID(this._rawData)",
+			"this.manager.isValidID(this._rawData)",
+			" manager.getFieldTypeFromIndex",
+			" manager.getDataTypeFromIndex",
+			" ",
+			"displayField",
+			"updatedBy",
+			"createdBy",
+			"formalName",
+			"fieldType",
+			"dataType",
+			"options",
+			"options:",
+			"realPathSync",
+			"backerClassName",
+			"backerDataType",
+			"require('coren/node_modules/lodash')",
+			".once(",
+			"coren.initEntities",
+			"nodeStyleCallback",
+			"coren",
+			"Coren",
+			"coren",
+			"Coren",
+			"coren",
+			"cOS",
+			"\\n},",
+			"\\n$1: function$2",
+			"},",
+			"$1: function($2)",
+			".$1",
+			"!== ",
+			"require('super-backbone')",
+			"require('hogan-updated')",
+			"\\",
+			"setSlateInfo",
+			"else:",
+			"subp",
+			"",
+			"ieOS.startSubprocess(",
+			"--"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/test_googleCloudManager.js",
+					"settings":
+					{
+						"buffer_size": 3045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1267,
+								1267
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"bitwise": true,
+								"browser": true,
+								"evil": true,
+								"immed": true,
+								"latedef": true,
+								"multistr": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"plusplus": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cloudManager.js",
+					"settings":
+					{
+						"buffer_size": 5006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1688,
+								1688
+							],
+							[
+								1717,
+								1717
+							],
+							[
+								1738,
+								1738
+							],
+							[
+								1759,
+								1759
+							],
+							[
+								1773,
+								1773
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"bitwise": true,
+								"browser": true,
+								"evil": true,
+								"immed": true,
+								"latedef": true,
+								"multistr": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"plusplus": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cloudManagerBaseClass.js",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								543,
+								543
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "// Vendor Modules",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"asi": true,
+								"bitwise": true,
+								"browser": true,
+								"evil": true,
+								"immed": true,
+								"latedef": true,
+								"multistr": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"plusplus": true,
+								"smarttabs": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"W191"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 458.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"permission",
+				"plugins/coren_permissionsManager/permissionsInterface.js"
+			],
+			[
+				"permissions",
+				"plugins/coren_permissionsManager/permissionsManager.js"
+			],
+			[
+				"permiss",
+				"plugins/coren_permissionsManager/permissionsInterface.js"
+			],
+			[
+				"readme",
+				"readme.md"
+			],
+			[
+				"jon",
+				"jonathan.md"
+			],
+			[
+				"controller",
+				"client/clientController.js"
+			],
+			[
+				"apview",
+				"shared/views/baseAppView.js"
+			],
+			[
+				"baseview",
+				"shared/views/baseView.js"
+			],
+			[
+				"templateview",
+				"shared/views/baseTemplateView.js"
+			],
+			[
+				"baseapview",
+				"shared/views/baseAppView.js"
+			],
+			[
+				"pluginmana",
+				"server/pluginManager.js"
+			],
+			[
+				"manager",
+				"server/manager.js"
+			],
+			[
+				"pluginma",
+				"server/pluginManager.js"
+			],
+			[
+				"baseview.js",
+				"shared/views/baseView.js"
+			],
+			[
+				"plugin",
+				"server/pluginManager.js"
+			],
+			[
+				"coren_setup",
+				"plugins/coren_setup/coren_setup.js"
+			],
+			[
+				"cli.js",
+				"config/cli.js"
+			],
+			[
+				"coren_core.js",
+				"plugins/coren_core/corenPlugin.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"coren_head",
+				"client/templates/coren_header.hogan"
+			],
+			[
+				"baseve",
+				"shared/views/baseView.js"
+			],
+			[
+				"help",
+				"shared/util/helpers.js"
+			],
+			[
+				"mixin",
+				"client/styles/coren_mixins.styl"
+			],
+			[
+				"mixins",
+				"client/styles/coren_mixins.styl"
+			],
+			[
+				"_user",
+				"server/entityDefinitions/_user.entitydef"
+			],
+			[
+				"baseentitiesview",
+				"shared/views/entities/baseEntitiesView.js"
+			],
+			[
+				"multentfid",
+				"shared/models/fields/multiEntityFieldModel.js"
+			],
+			[
+				"coren.js",
+				"shared/coren.js"
+			],
+			[
+				"basecol",
+				"shared/collections/baseCollection.js"
+			],
+			[
+				"baseentcol",
+				"shared/collections/entities/baseEntityCollection.js"
+			],
+			[
+				"baseentmod",
+				"shared/models/entities/baseEntityModel.js"
+			],
+			[
+				"javscript",
+				"plugins/javascript_browserify/javascriptCompiler.js"
+			],
+			[
+				"javscriptio",
+				"test/javascriptIO.js"
+			],
+			[
+				"corenv",
+				"client/styles/coren_variables.styl"
+			],
+			[
+				"todo",
+				"todo.md"
+			],
+			[
+				"query",
+				"shared/query.js"
+			],
+			[
+				"test/post",
+				"test/coren_postEntity.js"
+			],
+			[
+				"baseenticol",
+				"shared/collections/entities/baseEntityCollection.js"
+			],
+			[
+				"multi",
+				"shared/models/fields/multiEntityFieldModel.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"cos",
+				"server/cOS.js"
+			],
+			[
+				"script",
+				"plugins/coren_runScript/coren_runScript.js"
+			],
+			[
+				"mysqlconvert",
+				"plugins/importer_MySQL/mysqlConverter.js"
+			],
+			[
+				"cli",
+				"config/cli.js"
+			],
+			[
+				"sqli",
+				"plugins/importer_MySQL/mysqlImporter.js"
+			],
+			[
+				"basefieldmo",
+				"shared/models/fields/baseFieldModel.js"
+			],
+			[
+				"entfieldmod",
+				"shared/models/fields/entityFieldModel.js"
+			],
+			[
+				"basefieldm",
+				"shared/models/fields/baseFieldModel.js"
+			],
+			[
+				"basefielmod",
+				"shared/models/baseFieldedModel.js"
+			],
+			[
+				"entfiemd",
+				"shared/models/fields/entityFieldModel.js"
+			],
+			[
+				"baseentmodel",
+				"shared/models/entities/baseEntityModel.js"
+			],
+			[
+				"basefieldmodel",
+				"shared/models/fields/baseFieldModel.js"
+			],
+			[
+				"multent",
+				"shared/models/fields/multiEntityFieldModel.js"
+			],
+			[
+				"entfiemo",
+				"shared/models/fields/entityFieldModel.js"
+			],
+			[
+				"main.js",
+				"client/main.js"
+			],
+			[
+				"clientco",
+				"client/clientController.js"
+			],
+			[
+				"cliecon",
+				"client/clientController.js"
+			],
+			[
+				"baseentityview",
+				"shared/views/entities/baseEntityView.js"
+			],
+			[
+				"entitymanag",
+				"server/entityDefManager.js"
+			],
+			[
+				"_entmodl",
+				"shared/models/entities/_entityModel.js"
+			],
+			[
+				"const",
+				"shared/constants.js"
+			],
+			[
+				"baseentview",
+				"shared/views/entities/baseEntityView.js"
+			],
+			[
+				"baseent",
+				"shared/views/entities/baseEntitiesView.js"
+			],
+			[
+				"clientcon",
+				"client/clientController.js"
+			],
+			[
+				"coren_fields",
+				"test/coren_fields.js"
+			],
+			[
+				"test/coren_",
+				"test/coren_linkedEntities.js"
+			],
+			[
+				"baserouter",
+				"shared/controllers/baseRouter.js"
+			],
+			[
+				"backrout",
+				"shared/components/coren_backend/controllers/coren_backendRouter.js"
+			],
+			[
+				"coren_query",
+				"test/coren_query.js"
+			],
+			[
+				"coren_basview",
+				"test/coren_basicViews.js"
+			],
+			[
+				"datefieldmo",
+				"shared/models/fields/dateFieldModel.js"
+			],
+			[
+				"glyph",
+				"client/styles/glyphicons.styl"
+			],
+			[
+				"baseentt",
+				"shared/views/entities/baseEntitiesView.js"
+			],
+			[
+				"backerouter",
+				"shared/components/coren_backend/controllers/coren_backendRouter.js"
+			],
+			[
+				"gly",
+				"client/styles/glyphicons.styl"
+			],
+			[
+				"multentmodel",
+				"shared/models/fields/multiEntityFieldModel.js"
+			],
+			[
+				"syncer",
+				"shared/syncer.js"
+			],
+			[
+				"sqlimpor",
+				"plugins/importer_MySQL/mysqlImporter.js"
+			],
+			[
+				"entmodel",
+				"shared/models/fields/entityFieldModel.js"
+			],
+			[
+				"coren_basicviews",
+				"test/coren_basicViews.js"
+			],
+			[
+				"coren_basics",
+				"test/coren_basics.js"
+			],
+			[
+				"entitymodel",
+				"shared/models/fields/entityFieldModel.js"
+			],
+			[
+				"multentfieldmo",
+				"shared/models/fields/multiEntityFieldModel.js"
+			],
+			[
+				"entdefma",
+				"server/entityDefManager.js"
+			],
+			[
+				"share/coren",
+				"shared/coren.js"
+			],
+			[
+				"apirout",
+				"shared/controllers/apiRouter.js"
+			],
+			[
+				"basemodel",
+				"shared/models/baseModel.js"
+			],
+			[
+				"mysqlimpor",
+				"plugins/importer_MySQL/mysqlImporter.js"
+			],
+			[
+				"",
+				"server/cli.js"
+			],
+			[
+				"cli.",
+				"config/cli.js"
+			],
+			[
+				"coren_plugin",
+				"plugins/coren_core/corenPlugin.js"
+			],
+			[
+				"testw",
+				"plugins/coren_testManager/testManagerWrapper.js"
+			],
+			[
+				"coren_import",
+				"plugins/coren_importer/coren_importer.js"
+			],
+			[
+				"listfiemod",
+				"shared/models/fields/listFieldModel.js"
+			],
+			[
+				"sqlimport",
+				"plugins/importer_MySQL/mysqlImporter.js"
+			],
+			[
+				"basfimod",
+				"shared/models/baseFieldedModel.js"
+			],
+			[
+				"enttypefielmod",
+				"shared/models/fields/entityTypeFieldModel.js"
+			],
+			[
+				"share/man",
+				"shared/manager.js"
+			],
+			[
+				"ser/man",
+				"server/manager.js"
+			],
+			[
+				"basefieldmod",
+				"shared/models/fields/baseFieldModel.js"
+			],
+			[
+				"jsonmod",
+				"shared/models/fields/jsonFieldModel.js"
+			],
+			[
+				"texfieview",
+				"shared/views/fields/textFieldView.js"
+			],
+			[
+				"jsonfi",
+				"shared/models/fields/jsonFieldModel.js"
+			],
+			[
+				"idmod",
+				"shared/models/fields/idFieldModel.js"
+			],
+			[
+				"defa.js",
+				"config/default.js"
+			],
+			[
+				"mysconv",
+				"plugins/importer_MySQL/mysqlConverter.js"
+			],
+			[
+				"sql",
+				"plugins/importer_MySQL/mysqlImporter.js"
+			],
+			[
+				"link.",
+				"shared/templates/coren_link.hogan"
+			],
+			[
+				"coren_mix",
+				"client/styles/coren_mixins.styl"
+			],
+			[
+				"coren_navbar",
+				"client/styles/coren_navbar.styl"
+			],
+			[
+				"simpleview",
+				"shared/views/simpleView.js"
+			],
+			[
+				"corenvariab",
+				"client/styles/coren_variables.styl"
+			],
+			[
+				"coren_re",
+				"client/styles/coren_reset.styl"
+			],
+			[
+				"coren_com",
+				"client/styles/coren_common.styl"
+			],
+			[
+				".hogan",
+				"shared/templates/coren_link.hogan"
+			],
+			[
+				"coren_navbarview.js",
+				"shared/components/coren_navbar/coren_navbarView.js"
+			],
+			[
+				"coren_nav",
+				"client/styles/coren_navbar.styl"
+			],
+			[
+				"common",
+				"client/styles/coren_common.styl"
+			],
+			[
+				"router",
+				"shared/controllers/apiRouter.js"
+			],
+			[
+				"javasccompil",
+				"plugins/javascript_browserify/javascriptCompiler.js"
+			],
+			[
+				"defa",
+				"config/default.js"
+			],
+			[
+				"coren_backrouter",
+				"shared/components/coren_backend/controllers/coren_backendRouter.js"
+			],
+			[
+				"reg",
+				"shared/registry.js"
+			],
+			[
+				"conf/defa",
+				"config/default.js"
+			],
+			[
+				"testm",
+				"plugins/coren_testManager/testManagerWrapper.js"
+			],
+			[
+				"backapview.js",
+				"shared/components/coren_backend/views/coren_backendAppView.js"
+			],
+			[
+				"components.js",
+				"shared/components/index.js"
+			],
+			[
+				"pageview",
+				"shared/components/coren_page/templates/coren_pageView.hogan"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/dev/coren/coren.sublime-project"
+			],
+			[
+				"core",
+				"/C/dev/coren/coren.sublime-project"
+			],
+			[
+				"ing",
+				"/C/dev/ingenuity_site/ingenuity_site.sublime-project"
+			],
+			[
+				"too",
+				"/C/ie/tools.sublime-project"
+			],
+			[
+				"tools",
+				"/C/ie/tools.sublime-project"
+			],
+			[
+				"care",
+				"/C/dev/caretaker/caretaker.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 204.0,
+	"status_bar_visible": false
+}
